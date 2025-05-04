@@ -1,4 +1,4 @@
-# Sudoku Solver with Z3
+# Sudoku Solver with Z3 (and also 24 solver!)
 
 This repository contains a Python implementation of a Sudoku solver using the Z3 SMT solver (`z3-solver` package). It encodes the classic Sudoku constraints (F₁–F₄) and the puzzle givens (F₅) as Boolean formulas and solves them via Z3.
 
